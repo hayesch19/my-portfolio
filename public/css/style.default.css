@@ -216,6 +216,10 @@ nav.navbar a.nav-link:hover {
 * =====================
 *
 */
+.about-section {
+  background-color: #1a1a1a;
+}
+
 .about-section .skill-item {
   margin-bottom: 20px;
 }
