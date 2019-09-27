@@ -8,8 +8,13 @@ body {
 
 .contact {
   background-color: #50bda3;
+  color: #1a1a1a;
 }
 
 nav {
   background-color: #1a1a1a;
+}
+
+.send-message-btn {
+  background-color: #ffffff;
 }
